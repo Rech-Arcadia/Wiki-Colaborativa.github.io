@@ -748,7 +748,6 @@ hr.dottad_border {
 .section {
 	float: left;
 	width: 100%;
-	margin-right: :150px;
 }
 
 .pagination>li.active a {
