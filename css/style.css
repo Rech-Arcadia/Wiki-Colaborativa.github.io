@@ -528,6 +528,11 @@ a:focus {
 	text-align: right;
 }
 
+.text_align_right100 {
+	text-align: left;
+}
+
+
 .left_side {
 	float: left;
 }
